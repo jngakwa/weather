@@ -1,6 +1,5 @@
 # Does it rain more in Seattle, WA or Medford, OR? 
 
-> A brief description of what the project does and its purpose.
 
 ---
 
